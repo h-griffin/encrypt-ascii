@@ -1,0 +1,8 @@
+
+Time taken to complete part 1: 0.5 hours
+
+Expected hourly rate: $35
+
+Email address: haleygriffin708@gmail.com
+
+Challenge response: 15 240 163 5 (decimal)
